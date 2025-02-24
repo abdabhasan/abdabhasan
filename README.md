@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Abdelrahman<br><br>- 🔭 I’m working as Full-Stack Dev<br>- ⚡ In my free time I read books</p>
+<p align="left">I'm Abdelrahman<br><br>- 🔭 I’m working as C++ Dev<br>- ⚡ In my free time I read books</p>
 
 ###
 
