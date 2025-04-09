@@ -58,7 +58,7 @@
 
 <img height="150" src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"/>
 
-<img align="right"  height="180" width="300" src="https://media.lordicon.com/icons/wired/flat/1324-c-code-language.gif" />
+<img align="center"  height="180" width="300" src="https://media.lordicon.com/icons/wired/flat/1324-c-code-language.gif" />
  
  
 ###
