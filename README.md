@@ -56,9 +56,15 @@
 
 <img align="right" height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
-<img height="150" src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"/>
+###
 
-<img align="center"  height="180" width="300" src="https://media.lordicon.com/icons/wired/flat/1324-c-code-language.gif" />
+<img align="left" height="150" src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"  />
+
+###
+
+<div align="center">
+  <img height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVkYTlhdGVwNHY3d2RicTl5aXBjdmRvMmRta2Zka2s2bjc4eTZ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif"  />
+</div>
  
  
 ###
